@@ -42,3 +42,5 @@ The main goals are to demonstrate knowledge of **asynchrony, callbacks vs promis
 ## 🚀 Notes
 This technical test is not from a real company.  
 I am using it as a **learning exercise** to strengthen my backend and fullstack skills.
+
+Erikooo
