@@ -94,10 +94,22 @@ export async function leerArchivos() {
         fsp.readFile('../archivo2.txt', 'utf8'),
         fsp.readFile('../archivo3.txt', 'utf8')
     ])
-    
+
     console.log(`EJERCICIO 4. ${archivo1.value} ${archivo2.value} ${archivo3.value}`)
     console.timeEnd('leerArchivos')
     return `${archivo1.value} ${archivo2.value} ${archivo3.value}`
 }
 
 leerArchivos();
+
+// Ejercicio 5
+export async function delay(time) {
+    return new Promise(resolve => {
+        setTimeout(resolve, time)
+    })
+
+
+delay(3000).then(() => console.log('Hola mundo'));
+// o..
+await delay(3000)
+console.log('Hola mundo')
