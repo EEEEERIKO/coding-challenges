@@ -1,26 +1,44 @@
-# Pruebas Técnicas de Programación
+# Technical Challenge – Node.js & Vanilla Frontend
 
-Pruebas técnicas de programación para desarrolladores frontend y backend.
+This repository contains my progress solving a technical challenge designed to test **Full Stack Developer** skills, with a strong focus on backend (Node.js) and vanilla frontend.
 
-## Lista de pruebas técnicas
+---
 
-- [01 - Reading List (FrontEnd - Nivel: Junior)](./pruebas/01-reading-list/README.md)
-- [02 - Bazar Universal (FrontEnd - Nivel: Junior)](./pruebas/02-bazar-universal/README.md)
+## 📌 Challenge Overview
+The challenge is structured into **7 exercises**, each with a timebox of 2 hours.  
+The main goals are to demonstrate knowledge of **asynchrony, callbacks vs promises vs async/await, REST API creation, debugging, best practices, and refactoring**.
 
-## ¿Cómo participar?
+---
 
-1. Haz un fork de este repositorio
-2. Crea una carpeta con **tu nombre de usuario de GitHub** dentro de la carpeta `pruebas/[nombre-de-la-prueba]`, por ejemplo: `pruebas/01-reading-list/midudev`.
-3. Siempre **sólo modifica los ficheros y carpetas dentro de tu carpeta**, de otra manera, tu pull request será rechazada. Nunca formatees o modifiques el código de otros participantes.
+## 📝 Exercises
 
-- Recurso: [Cómo crear una Pull Request a un proyecto](https://www.youtube.com/watch?v=BPns9r76vSI)
+1. **Fix a function** – Correct the implementation of a buggy function.  
+2. **Convert callbacks to promises** – Refactor a function so it works with promises instead of callbacks.  
+3. **Code explanation & error detection** – Explain what a given function does, identify mistakes, and improve readability.  
+4. **Improve synchronous calls** – Refactor code that uses synchronous calls to a cleaner and more efficient version.  
+5. **Implement a delay function** – Write a custom `delay` function to handle asynchronous behavior.  
+6. **Create a custom dotenv** – Build a simplified version of dotenv that detects and loads environment variables from a `.env` file.  
+7. **Build a REST API with Express** – Create a small API using Express.js following REST principles.  
 
-## Sígueme en las redes sociales
+---
 
-- [Twitter](https://twitter.com/midudev)
-- [Instagram](https://instagram.com/midu.dev)
-- [Twitch](https://twitch.tv/midudev)
-- [YouTube](https://youtube.com/midudev)
-- [TikTok](https://tiktok.com/@midudev)
-- [LinkedIn](https://linkedin.com/in/midudev)
-- [Web](https://midu.dev)
+## 🎯 Skills Evaluated
+- Understanding of **asynchrony in JavaScript**: callbacks, promises, async/await.  
+- Ability to **detect and fix errors** in existing code.  
+- Writing **cleaner and more readable code** (refactoring).  
+- Implementing **good practices** in backend development.  
+- Building a simple **REST API** with Node.js and Express.  
+- Basic **environment configuration** (dotenv).  
+
+---
+
+## 🛠️ Tech Stack
+- **Node.js** (backend)  
+- **Express.js** (REST API)  
+- **Vanilla JavaScript** (frontend logic)  
+
+---
+
+## 🚀 Notes
+This technical test is not from a real company.  
+I am using it as a **learning exercise** to strengthen my backend and fullstack skills.
