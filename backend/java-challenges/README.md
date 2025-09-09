@@ -1,6 +1,7 @@
 # 🚀 IBM Coding Challenges
 
-Este repositorio contiene mis soluciones en **Java 21** para pruebas técnicas de IBM.  
+Este repositorio contiene mis soluciones en **Java 21** para ejercicios y retos de programación.
+Cada ejercicio está diseñado para practicar resolución de problemas y mejorar habilidades de backend.
 Cada ejercicio está documentado con:
 - 📖 Enunciado simplificado
 - 🧩 Idea de solución
