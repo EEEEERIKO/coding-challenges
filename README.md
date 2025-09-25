@@ -1,4 +1,4 @@
-# Coding Challengesn
+# Coding Challenges
 
 This repository contains different coding challenges and practice exercises.  
 The goal is to improve my skills in **frontend, backend, and fullstack development** while learning step by step.  
